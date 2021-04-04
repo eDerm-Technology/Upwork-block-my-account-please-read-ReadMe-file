@@ -28,4 +28,5 @@ For Dashboard:
 npx cypress run --record --key ba8eb115-244d-471d-9c0c-bfa06070a1d9
 ```
 
-Upwork blocked my account for no reason please contact me via email : https://support.upwork.com/hc/requests/31384898
+Upwork blocked my account for no reason please contact me via email : loc.nguyenqa28@gmail.com
+
